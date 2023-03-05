@@ -1,7 +1,24 @@
 {
-  "test": [
+  "navbar_menu": [
     {
       "id": 1,
+      "name": "Main",
+      "url": "잘 부탁드려요"
+    },
+    {
+      "id": 2,
+      "name": "Random",
+      "body": "잘 부탁드려요"
+    },
+    {
+      "id": 3,
+      "name": "Recipe",
+      "body": "잘 부탁드려요"
+    }
+  ],
+  "test1": [
+    {
+      "id": 2,
       "title": "처음입니다",
       "body": "잘 부탁드려요"
     }
